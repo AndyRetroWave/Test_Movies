@@ -1,0 +1,26 @@
+[
+    {
+        "id": 30,
+        "given_name": "John",
+        "family_name": "Doe",
+        "email": "john.doe@example.com",
+        "hashed_password": "$2b$12$hKTZ94Bh1OBZXzOiwoq/2uVPJrPMdOZgqmAwkRWoWRk5AFncrymPC",
+        "is_active": true
+    },
+    {
+        "id": 41,
+        "given_name": "Jane",
+        "family_name": "Smith",
+        "email": "jane.smith@example.com",
+        "hashed_password": "$2b$12$hKTZ94Bh1OBZXzOiwoq/2uVPJrPMdOZgqmAwkRWoWRk5AFncrymPC",
+        "is_active": true
+    },
+    {
+        "id": 51,
+        "given_name": "Alice",
+        "family_name": "Johnson3",
+        "email": "alice.johnson@example.com",
+        "hashed_password": "$2b$12$hKTZ94Bh1OBZXzOiwoq/2uVPJrPMdOZgqmAwkRWoWRk5AFncrymPC",
+        "is_active": false
+    }
+]
